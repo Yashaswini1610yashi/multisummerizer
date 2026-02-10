@@ -1,0 +1,1 @@
+fastapi\nuvicorn\npython-multipart\npymupdf\nlangchain\nlangchain-google-genai\nfaiss-cpu\npython-dotenv\nlangdetect

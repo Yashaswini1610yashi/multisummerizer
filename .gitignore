@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.env
+backend/storage/
+storage/
+venv/
+.venv
+
+# Node
+node_modules/
+dist/
+build/
+.DS_Store
+
+# Local secrets
+.env
