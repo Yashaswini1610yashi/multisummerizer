@@ -15,7 +15,7 @@ class RAGEngine:
             google_api_key=self.api_key
         )
         self.llm = ChatGoogleGenerativeAI(
-            model="gemini-flash-latest",
+            model="gemini-1.5-flash",
             google_api_key=self.api_key,
             temperature=0
         )
